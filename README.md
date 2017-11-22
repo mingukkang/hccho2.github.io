@@ -8,7 +8,7 @@
 
  * [RNN Toy Model(Google Drive)][2]
 
-
+---
 
 ```rust
 mat = [[1, 2, 3], [4, 5, 6]]
@@ -19,7 +19,7 @@ C = np.array(A).tolist()
 print(C)  # [[1, 4], [2, 5], [3, 6]]
 ```
 
-
+---
 
 
 
