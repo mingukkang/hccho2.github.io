@@ -1,6 +1,6 @@
 # Heecheol Cho's Blog
 
-# 안녕하세요. Deep Learning을 공부하는 조희철입니다.
+# <span style="color: green"> 안녕하세요. Deep Learning을 공부하는 조희철입니다. </span>
 
 
 	
