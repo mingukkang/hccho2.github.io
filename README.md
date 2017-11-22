@@ -9,7 +9,7 @@
  * [RNN Toy Model(Google Drive)][2]
 
 ---
-
+###[code sample]
 ```rust
 mat = [[1, 2, 3], [4, 5, 6]]
 A = list(zip(*mat))   # [(1, 4), (2, 5), (3, 6)]
@@ -22,7 +22,7 @@ print(C)  # [[1, 4], [2, 5], [3, 6]]
 ---
 
 
-
+##[code sample]
 
 
 [1]:https://github.com/hccho2/hccho2.github.io/blob/master/LanguageModel.pdf/ "링크제목1"
