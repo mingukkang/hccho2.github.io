@@ -1,13 +1,12 @@
-# hccho2.github.io
-hccho's blog
-# 안녕하세요
-안녕하세요
+# Heecheol Cho's Blog
+
+# 안녕하세요. Deep Learning을 공부하는 조희철입니다.
 
 
 	
-[RNN Toy Model(github)][1]
+ * [Deep Learnig Full Version(github)][1]
 
-[RNN Toy Model(Google Drive)][2]
+ * [RNN Toy Model(Google Drive)][2]
 
 
 
