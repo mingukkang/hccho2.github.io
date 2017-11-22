@@ -2,7 +2,7 @@
 
 # <span style="color: green"> 안녕하세요. Deep Learning을 공부하는 조희철입니다. </span>
 
-
+<span style="color:blue">some *This is Blue italic.* text</span>
 	
  * [Deep Learnig Full Version(github)][1]
 
