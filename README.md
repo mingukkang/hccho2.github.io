@@ -8,7 +8,7 @@
  * [RNN Toy Model(Google Drive)][2]
  
  * [Fast Back Propagation of Batch Normalization][3]
-(#anchors-in-markdown)
+
 ---
 ### [code sample]
 ```rust
@@ -51,7 +51,7 @@ print(C)  # [[1, 4], [2, 5], [3, 6]]
 
 
 
-
+안녕 [anchors-in-markdown] 
 
 [1]: http://en.wikipedia.org/wiki/Markdown        "Markdown"
 
