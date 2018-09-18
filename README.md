@@ -33,8 +33,6 @@ print(C)  # [[1, 4], [2, 5], [3, 6]]
 
 
 
-
-[[Link-name1|#Header1]]
 [Link-name2](#Header2)
 
 
@@ -56,7 +54,6 @@ print(C)  # [[1, 4], [2, 5], [3, 6]]
 
 
 
-안녕 [anchors-in-markdown] 
 
 [1]: http://en.wikipedia.org/wiki/Markdown        "Markdown"
 
