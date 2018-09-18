@@ -1,7 +1,7 @@
 # Heecheol Cho's Blog
 
 # <span style="color:red"> 안녕하세요. Deep Learning을 공부하는 조희철입니다. </span>
-# Header1
+# [Header2]
 
 	
  * [Deep Learnig Full Version(github)][1]
@@ -10,7 +10,7 @@
  
  * [Fast Back Propagation of Batch Normalization][3]
 
-# Header2
+
 ---
 ### [code sample]
 ```rust
