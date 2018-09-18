@@ -8,7 +8,7 @@
  * [RNN Toy Model(Google Drive)][2]
  
  * [Fast Back Propagation of Batch Normalization][3]
-[myref1]
+[#1]
 ---
 ### [code sample]
 ```rust
@@ -24,7 +24,7 @@ print(C)  # [[1, 4], [2, 5], [3, 6]]
 
 
 ## [code sample]
-[Jump][myref1]
+[Jump][#1]
 
 
 
