@@ -24,7 +24,22 @@ print(C)  # [[1, 4], [2, 5], [3, 6]]
 
 
 ## [code sample]
+This is a guide on Markdown [Markdown][1].
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1]: http://en.wikipedia.org/wiki/Markdown        "Markdown"
 
 [1]:https://github.com/hccho2/hccho2.github.io/blob/master/DeepLearning.pdf/ "링크제목1"
 [2]:https://drive.google.com/file/d/1FlGwtl3Uy7xhRwCdlfeBcfCO0pOSUzaX/view?usp=sharing/ "링크제목2"
