@@ -1,5 +1,5 @@
 # Heecheol Cho's Blog
-
+[code sample로 이동](#code-sample)
 # <span style="color:red"> 안녕하세요. Deep Learning을 공부하는 조희철입니다. </span>
 
 
@@ -25,7 +25,6 @@ print(C)  # [[1, 4], [2, 5], [3, 6]]
 ---
 
 
-## [code sample2]
 
 
 
@@ -61,9 +60,9 @@ print(C)  # [[1, 4], [2, 5], [3, 6]]
 
 
 
-밤과 음악 
 
-[Link-name2](#code-sample)
+
+
 
 
 
