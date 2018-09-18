@@ -1,7 +1,7 @@
 # Heecheol Cho's Blog
 
 # <span style="color:red"> 안녕하세요. Deep Learning을 공부하는 조희철입니다. </span>
-# [Header2]
+
 
 	
  * [Deep Learnig Full Version(github)][1]
