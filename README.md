@@ -24,7 +24,7 @@ print(C)  # [[1, 4], [2, 5], [3, 6]]
 
 
 ## [code sample]
-This is a guide on Markdown [Markdown][1].
+
 
 
 
