@@ -25,7 +25,7 @@ print(C)  # [[1, 4], [2, 5], [3, 6]]
 ---
 
 
-## [code sample]
+## [code sample2]
 
 
 
@@ -33,7 +33,11 @@ print(C)  # [[1, 4], [2, 5], [3, 6]]
 
 
 
-[Link-name2](#Header2)
+[Link-name2](#code-sample)
+
+
+
+
 
 
 
